@@ -33,7 +33,7 @@ function FeaturesHomeOne({ className }) {
                                     aria-controls="v-pills-home"
                                     aria-selected="true"
                                 >
-                                    <i className="fas fa-cog" /> Settings
+                                    <i className="fas fa-cog" /> Vision
                                 </a>
                                 <a
                                     onClick={(e) => handleClick(e, 'report')}
@@ -45,7 +45,7 @@ function FeaturesHomeOne({ className }) {
                                     aria-controls="v-pills-profile"
                                     aria-selected="false"
                                 >
-                                    <i className="fas fa-exclamation-triangle" /> Report
+                                    <i className="fas fa-exclamation-triangle" /> Mission
                                 </a>
                                 <a
                                     onClick={(e) => handleClick(e, 'notice')}
@@ -57,7 +57,7 @@ function FeaturesHomeOne({ className }) {
                                     aria-controls="v-pills-messages"
                                     aria-selected="false"
                                 >
-                                    <i className="fas fa-bell" /> Saeety Notices
+                                    <i className="fas fa-bell" /> Reuse
                                 </a>
                                 <a
                                     onClick={(e) => handleClick(e, 'app')}
@@ -69,7 +69,7 @@ function FeaturesHomeOne({ className }) {
                                     aria-controls="v-pills-settings"
                                     aria-selected="false"
                                 >
-                                    <i className="fas fa-lock" /> App Lock
+                                    <i className="fas fa-lock" /> Reduce
                                 </a>
                             </div>
                         </div>
@@ -100,12 +100,12 @@ function FeaturesHomeOne({ className }) {
                                             data-wow-duration="2000ms"
                                             data-wow-delay="600ms"
                                         >
-                                            <span>Custom Reacyions</span>
+                                            <span>Our Vision</span>
                                             <h3 className="title">
-                                                Let the <br /> Conversation flow
+                                                Trở thành <br /> điểm đến hàng đầu
                                             </h3>
                                             <p>
-                                                Car boot absolutely bladdered posh burke the
+                                                Car boot absolutely bladdered posh sssss tjbhjbjhhe
                                                 wireless mush some dodg.
                                             </p>
                                             <Link className="main-btn" to="/about-us">
@@ -215,10 +215,7 @@ function FeaturesHomeOne({ className }) {
                                             <h3 className="title">
                                                 Let the <br /> Conversation flow
                                             </h3>
-                                            <p>
-                                                Car boot absolutely bladdered posh burke the
-                                                wireless mush some dodg.
-                                            </p>
+                                            <p>We belive that greate style</p>
                                             <a className="main-btn" href="#">
                                                 Learn More
                                             </a>

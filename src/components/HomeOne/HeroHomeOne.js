@@ -14,9 +14,10 @@ function HeroHomeOne({ className }) {
                         <div className="col-lg-6">
                             <div className="appie-hero-content">
                                 <span>Welcome To ReClo</span>
-                                <h1 className="appie-title">
-                                    Revamp Your Wardrobe, Save the Planet
-                                </h1>
+                                <h3 className="appie-title">
+                                    Thời trang cũ, <br />
+                                    Cuộc sống mới
+                                </h3>
                                 <p>Welcome to our sustainable fashion marketplace</p>
                                 <ul>
                                     <li>

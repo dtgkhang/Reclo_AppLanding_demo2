@@ -45,8 +45,8 @@ function TeamHomeOne({ className }) {
                                     </ul>
                                 </div>
                                 <div className="content text-center">
-                                    <h5 className="title">Benjamin Evalent</h5>
-                                    <span>CEO-Founder</span>
+                                    <h5 className="title">Mai Vy</h5>
+                                    <span>CEO</span>
                                 </div>
                             </div>
                         </div>
@@ -77,8 +77,8 @@ function TeamHomeOne({ className }) {
                                     </ul>
                                 </div>
                                 <div className="content text-center">
-                                    <h5 className="title">Benjamin Evalent</h5>
-                                    <span>CEO-Founder</span>
+                                    <h5 className="title">Kim Phụng</h5>
+                                    <span>CMO</span>
                                 </div>
                             </div>
                         </div>
@@ -109,8 +109,8 @@ function TeamHomeOne({ className }) {
                                     </ul>
                                 </div>
                                 <div className="content text-center">
-                                    <h5 className="title">Benjamin Evalent</h5>
-                                    <span>CEO-Founder</span>
+                                    <h5 className="title">Song Phương</h5>
+                                    <span>CTO</span>
                                 </div>
                             </div>
                         </div>
@@ -141,8 +141,8 @@ function TeamHomeOne({ className }) {
                                     </ul>
                                 </div>
                                 <div className="content text-center">
-                                    <h5 className="title">Benjamin Evalent</h5>
-                                    <span>CEO-Founder</span>
+                                    <h5 className="title">Sơn kiều</h5>
+                                    <span>CTO</span>
                                 </div>
                             </div>
                         </div>

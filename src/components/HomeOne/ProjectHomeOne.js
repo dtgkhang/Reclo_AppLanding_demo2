@@ -16,9 +16,7 @@ function ProjectHomeOne({ className }) {
                                 <div className="row">
                                     <div className="col-lg-6">
                                         <div className="appie-project-content">
-                                            <h3 className="title">
-                                                Start selling with Reclo.
-                                            </h3>
+                                            <h3 className="title">Start selling with Reclo.</h3>
                                             <p>We will email you only about this product.</p>
                                             <form action="#">
                                                 <div className="input-box mt-30">
