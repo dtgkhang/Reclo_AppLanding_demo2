@@ -3,7 +3,7 @@ import useToggle from '../../Hooks/useToggle';
 import BackToTop from '../BackToTop';
 import Drawer from '../Mobile/Drawer';
 // import BlogHomeOne from './BlogHomeOne';
-import FaqHomeOne from './FaqHomeOne';
+// import FaqHomeOne from './FaqHomeOne';
 import FeaturesHomeOne from './FeaturesHomeOne';
 import FooterHomeOne from './FooterHomeOne';
 import HeroHomeOne from './HeroHomeOne';
@@ -31,7 +31,7 @@ function HomeOne() {
             <TestimonialHomeOne />
             <FeaturesHomeTwo />
             {/* <PricingHomeOne /> */}
-            <FaqHomeOne />
+            {/* <FaqHomeOne /> */}
             {/* <BlogHomeOne /> */}
             <ProjectHomeOne />
             <FooterHomeOne />
